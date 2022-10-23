@@ -1,6 +1,10 @@
 # Android App Project 
   Kotlin 언어를 활용한 애플리케이션 개발
 
+# 이름
+  개인 사유 주차장 공유 서비스 PPSS
+  Private Parking lot Sharing Service
+  
 # 목적
   졸업 작품 제출
 

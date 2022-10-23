@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/drawable/button_background.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/activity_my_park_reservation_list.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/activity_park_setting.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/activity_park_time_setting.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/activity_register.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/activity_register_adress.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/activity_register_parking_lot.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/activity_register_success.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/activity_take_photo.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/activity_test.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/change_car_num.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/do_not_register.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/fragment_product.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/fragment_register.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/fragment_user.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/item_booking.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/item_mypark.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/item_mytime.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/main_navheader.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/message_box.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/layout/parking_lot_submit_click.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/menu/left_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/menu/main_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/menu/main_menu2.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/menu/navi_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.177" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/GP/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.177" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/PParkingSharingServiceJM/app/src/main/res/drawable-v24/button_background2.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/PParkingSharingServiceJM/app/src/main/res/drawable/ic_baseline_3d_rotation_24.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/PParkingSharingServiceJM/app/src/main/res/drawable/ic_baseline_access_alarms_24.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/PParkingSharingServiceJM/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/PParkingSharingServiceJM/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/PParkingSharingServiceJM/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/PParkingSharingServiceJM/app/src/main/res/layout/activity_login.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/PParkingSharingServiceJM/app/src/main/res/menu/left_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/PParkingSharingServiceJM/app/src/main/res/menu/main_menu.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

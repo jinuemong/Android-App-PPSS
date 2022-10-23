@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.ProductFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/purple_200">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/purple_200"
+            android:text="내 공유주차장"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent" />
+        <Button
+            android:id="@+id/check_user"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/button_background"
+            android:drawableTop="@drawable/ic_my"
+            android:text="이용자 리스트"
+            android:textStyle="bold"
+            android:layout_marginEnd="10dp"
+            app:layout_constraintEnd_toStartOf="@+id/go_back2" />
+        <Button
+            android:id="@+id/go_back2"
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/button_background"
+            android:drawableTop="@drawable/ic_baseline_logout_24"
+            android:text="메인으로"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        android:background="@color/purple_59">
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/myParkList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:visibility="invisible"
+            android:id="@+id/no_park_image"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ic_baseline_sick_24"
+            app:layout_constraintBottom_toTopOf="@+id/no_park_text"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/text333" />
+        <ImageView
+            android:id="@+id/read_park_image"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ic_baseline_loop_24"
+            app:layout_constraintBottom_toTopOf="@+id/no_park_text"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/text333" />
+        <TextView
+            android:visibility="invisible"
+            android:id="@+id/no_park_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="현재 등록 된 공유 주차장이 없습니다."
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/no_park_image" />
+
+        <TextView
+            android:id="@+id/text333"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="공유 주차장은 최대 3개까지 등록할 수 있습니다."
+            android:textColor="#338E9A"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/myParkList" />
+        <TextView
+            android:id="@+id/read_park_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="로딩 중입니다...!"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/no_park_image" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

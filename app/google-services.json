@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "18142967826",
+    "firebase_url": "https://jinwooaop-default-rtdb.firebaseio.com",
+    "project_id": "jinwooaop",
+    "storage_bucket": "jinwooaop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18142967826:android:9b6d4ceed095fd5c1f80cb",
+        "android_client_info": {
+          "package_name": "project.aop.jinwoo.gp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18142967826-0pkgahrdnrhcnpc6ciohqmatektkrp3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYIcZg_Pj1xRVfhJSoP9sCV7YrTrXOqV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18142967826-0pkgahrdnrhcnpc6ciohqmatektkrp3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

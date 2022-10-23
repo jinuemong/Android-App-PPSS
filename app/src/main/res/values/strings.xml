@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">주차공유</string>
+
+    <!--    메뉴 스트링-->
+    <string name="my">내정보</string>
+    <string name="purchased">내 주차장</string>
+    <string name="sharing">공유</string>
+
+    <!--    툴바 스트링-->
+    <string name="destination">목적지</string>
+    <string name="search">검색</string>
+    <string name="share"> 공유하기</string>
+
+    <string name="d3d">3D뷰</string>
+    <string name="p_string_1"><u>주차 공간이 확인 가능한 사진 제출하기</u></string>
+    <string name="u_string_1"><u>충전하기</u></string>
+    <string name="u_string_2"><u>정산하기</u></string>
+    <string name="u_string_3"><u>번호변경</u></string>
+</resources>

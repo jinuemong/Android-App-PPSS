@@ -1,6 +1,6 @@
 # Android Project
 ------------------
-### Project Info
+### Project Information
 https://www.notion.so/Jinwoo-Kim-ba88c2c3e87a4a16b5ed402bf501dea4?p=13919cbb315e41c68af71a045d441a4d&pm=c
 
 ### Project Name
